@@ -9,13 +9,8 @@ Welcome to the project on UPI fraud detection using machine learning! In this pr
 ### Developer Names:
     Chirag Sharma
 
-### Date of Completion:
-- 12th May 2024
-
 ### Data Source:
 The dataset used in this project is a synthetically created dataset containing 50,000 rows of UPI transaction data. It has been modified to include variability and patterns for fraud detection purposes.
-
-{*You can find the dataset here: [UPI Fraud Detection Dataset](https://github.com/anujR1994/UPI-Fraud-detection/blob/main/UPI%20Latest%20data.csv)*}
 
 ## About the Dataset
 The dataset contains transaction data related to UPI (Unified Payments Interface) transactions. It includes various features related to transactions and fraud indicators. It includes the data for fraudulent transactions for financial year 2023 to 2024.
